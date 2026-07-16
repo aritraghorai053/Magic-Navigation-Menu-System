@@ -25,36 +25,6 @@ Magic Navigation Menu/
 │── README.md
 ```
 
-## ▶️ Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Magic-Navigation-Menu.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
-That's it! 🎉
-
-## 📸 Preview
-
-> Add a screenshot or GIF of your navigation menu here.
-
-Example:
-
-```
-assets/
-└── preview.png
-```
-
-Then display it with:
-
-```md
-![Project Preview](assets/preview.png)
-```
 
 ## 🎯 What I Learned
 
@@ -83,4 +53,4 @@ Then display it with:
 
 ---
 
-⭐ If you found this project helpful, please consider giving it a **Star** on GitHub!
+If you found this project helpful, please consider giving it a ⭐ on GitHub!
